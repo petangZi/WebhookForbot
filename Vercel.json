@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/api/catch", "destination": "/catch.js" }
+  ]
+}
+
